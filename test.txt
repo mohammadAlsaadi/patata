@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 car and bus
+=======
+carhahahahaha
+>>>>>>> car
